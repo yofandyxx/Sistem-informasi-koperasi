@@ -51,7 +51,7 @@
  */
 
 export const API_URL =
-  'https://script.google.com/macros/s/AKfycbwZTh4izZnlcNXZyLBP6-t2nlO6e03WXPe_yW_lgNTBkdhXCL6Xl-Wlblhp_KO80l3yxw/exec';
+  'https://URL Appscript';
 
 /**
  * ============================================================
